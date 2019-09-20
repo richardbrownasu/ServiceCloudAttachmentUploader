@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleServiceCloudAttachmentUpload", "OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload.csproj", "{8D131282-E640-4358-8B5C-4566C6DC49C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebAPI", "TestWebAPI\TestWebAPI.csproj", "{0F794973-C12E-4B91-86E3-182F76DFF215}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8D131282-E640-4358-8B5C-4566C6DC49C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D131282-E640-4358-8B5C-4566C6DC49C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D131282-E640-4358-8B5C-4566C6DC49C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F794973-C12E-4B91-86E3-182F76DFF215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F794973-C12E-4B91-86E3-182F76DFF215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F794973-C12E-4B91-86E3-182F76DFF215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F794973-C12E-4B91-86E3-182F76DFF215}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OracleServiceCloudAttachmentUpload": {
+      "commandName": "Project",
+      "commandLineArgs": "20 twenty \"E:\\ASU\\Company\\Images\\ASULogo.png\""
+    }
+  }
+}
